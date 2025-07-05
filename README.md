@@ -24,13 +24,24 @@ Whether you're a sysadmin, pentester, or power user, these scripts are here to m
 
 ---
 
+Sure! Here’s a clear and polished continuation for your README section:
+
+---
+
 ## 📂 Scripts Included
 
 ✅ **Docker Installation**
 
-- `install-latest-docker.sh`  
-  A robust script to **install the latest Docker Engine** on Kali Linux, Debian, or Ubuntu.  
+* `install-latest-docker.sh`
+  A robust script to **install the latest Docker Engine** on Kali Linux, Debian, or Ubuntu.
   Automatically configures the correct repository (`bookworm`), verifies installation, and optionally cleans up the test image.
+
+✅ **API Endpoints Counter**
+
+* `api-endpoints-counter.py`
+  A handy Python script that **analyzes Postman or Swagger collections** and **counts the total number of API endpoints** defined within them.
+  Simply provide your collection JSON file as input, and the script will output clear statistics showing how many endpoints are included—perfect for quick documentation in html format.
+
 
 *(More scripts coming soon!)*
 
